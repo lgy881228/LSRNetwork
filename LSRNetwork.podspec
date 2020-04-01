@@ -5,14 +5,14 @@ Pod::Spec.new do |s|
 
  
   s.name         = "LSRNetwork"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "网络请求 LSRNetworking."
 
    s.description  = <<-DESC
 	针对afn的一点封装 集成数据解析，快速模型化
                    DESC
 
-  s.homepage     = "http://github.com/LSRNetwork"
+  s.homepage     = "https://github.com/LSRNetwork"
 
 
  
