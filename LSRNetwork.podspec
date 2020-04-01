@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
 
  
   s.name         = "LSRNetwork"
-  s.version      = "1.0.3"
+  s.version      = "1.0.4"
   s.summary      = "网络请求 LSRNetworking."
 
    s.description  = <<-DESC
